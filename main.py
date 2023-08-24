@@ -1,5 +1,6 @@
 print('You can check if a number is prime or not using this tool.')
 num = int(input('Please type the number that you want to check: '))
+print('Checking your number...')
 
 if num < 2:
     statement = f'{num} is not a prime number.'
