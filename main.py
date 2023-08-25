@@ -19,6 +19,6 @@ if float(num) % 1 == 0:
             statement = f'{num} is not a prime number'
 
 else:
-    statement = f'{num} is not an int, therefore {num} is not a prime number.'
+    statement = f'{num} is not an integer, therefore {num} is not a prime number.'
 
 print(statement)
